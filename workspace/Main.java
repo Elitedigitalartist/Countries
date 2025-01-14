@@ -1,3 +1,5 @@
+//David Sagoua Period: 7
+//This run the game
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

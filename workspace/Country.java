@@ -1,3 +1,5 @@
+//David Sagoua Period: 7
+//This class defines a country
 public class Country
 {
   // add private instance variables for the name, capital, language, and image file.
